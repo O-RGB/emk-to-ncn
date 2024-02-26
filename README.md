@@ -4,9 +4,8 @@
 
 
 **Download**
-- MacOS
-  
-[EMK Converter.zip](https://github.com/O-RGB/emk-to-ncn/files/14403876/EMK.Converter.zip)
+- MacOS: [EMK Converter.zip](https://github.com/O-RGB/emk-to-ncn/files/14403876/EMK.Converter.zip)
+- Wondows: [None] 
 
 
 **ตัวอย่าง**
