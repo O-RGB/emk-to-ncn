@@ -21,6 +21,10 @@
 ![Screenshot 2567-02-26 at 18 20 32](https://github.com/O-RGB/emk-to-ncn/assets/54633251/974879a2-4ca5-4ba2-b070-4b60f74431bb)
 
 
+**ChatGPT**
+ขอบคุณนะที่ช่วยแปลงโค้ดจาก Js เป็น Python
+
+
 **อ้างอิง**
 https://medium.com/@crkza1134/วิธีอ่านไฟล์-emk-extreme-karaoke-แบบบ้านๆ-d684c5a0859d
 
