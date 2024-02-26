@@ -2,6 +2,12 @@
 
 ![Screenshot 2567-02-26 at 18 16 01](https://github.com/O-RGB/emk-to-ncn/assets/54633251/c89a658b-0399-4762-a99a-885f0629f3e8)
 
+**Download**
+- MacOS
+  
+[EMK Converter.zip](https://github.com/O-RGB/emk-to-ncn/files/14403876/EMK.Converter.zip)
+
+
 **ตัวอย่าง**
 
 - SONG_INFO.bin
@@ -14,3 +20,4 @@
 
 **อ้างอิง**
 https://medium.com/@crkza1134/วิธีอ่านไฟล์-emk-extreme-karaoke-แบบบ้านๆ-d684c5a0859d
+
