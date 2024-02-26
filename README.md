@@ -7,6 +7,9 @@
 - MacOS: [EMK Converter.zip](https://github.com/O-RGB/emk-to-ncn/files/14403876/EMK.Converter.zip)
 - Wondows: [None] 
 
+**อ่านก่อน**
+- EMK บางไฟล์ไม่สามารถอ่านได้
+- จากการทดสอบ EMK ตัวใหม่ ๆ อ่านไม่ค่อยได้
 
 **ตัวอย่าง**
 
