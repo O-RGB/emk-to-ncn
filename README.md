@@ -5,7 +5,7 @@
 
 **Download EMK Converter Portable**
 - MacOS: [EMK Converter.zip](https://github.com/O-RGB/emk-to-ncn/files/14403876/EMK.Converter.zip)
-- Wondows: [None] 
+- Windows: ผมไม่มีคอมที่เป็น Windows ใช้คับต้องรัน Python ใช้ไปก่อนนะคับ 
 
 **อ่านก่อน**
 - EMK บางไฟล์ไม่สามารถอ่านได้
