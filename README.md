@@ -1,11 +1,14 @@
 **แปลงไฟล์ EMK เป็น NCN**
+
 ![Screenshot 2567-02-26 at 18 16 01](https://github.com/O-RGB/emk-to-ncn/assets/54633251/c89a658b-0399-4762-a99a-885f0629f3e8)
 
 **ตัวอย่าง**
 
 - SONG_INFO.bin
+  
 ![Screenshot 2567-02-26 at 18 19 57](https://github.com/O-RGB/emk-to-ncn/assets/54633251/e5b8f03a-740c-42f5-b159-77bf4726486d)
 - LYRIC_DATA.txt
+  
 ![Screenshot 2567-02-26 at 18 20 32](https://github.com/O-RGB/emk-to-ncn/assets/54633251/974879a2-4ca5-4ba2-b070-4b60f74431bb)
 
 
